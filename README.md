@@ -1,6 +1,6 @@
 # 🚀 LeetMetric
 
-🔗 **Live Demo:** [click here](https://mrugansikathiriya.github.io/LeetMetric/)
+🔗 **Live Demo:** [Click here for demo](https://mrugansikathiriya.github.io/LeetMetric/)
 
 A web application that visualizes LeetCode statistics using the LeetCode GraphQL API. It displays difficulty-wise progress, submission counts, and an interactive dashboard.
 

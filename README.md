@@ -1,6 +1,6 @@
 # 🚀 LeetMetric
 
-🔗 **Live Demo:** https://YOUR_USERNAME.github.io/LeetMetric/
+🔗 **Live Demo:** [https://YOUR_USERNAME.github.io/LeetMetric/](https://mrugansikathiriya.github.io/LeetMetric/)
 
 A web application that visualizes LeetCode statistics using the LeetCode GraphQL API. It displays difficulty-wise progress, submission counts, and an interactive dashboard.
 
@@ -29,9 +29,3 @@ This project currently uses a public CORS proxy to access the LeetCode GraphQL A
 - Contest statistics
 - Better mobile responsiveness
 
-## 👩‍💻 Author
-
-**Mrugansi Kathiriya**
-
-- GitHub: https://github.com/YOUR_USERNAME
-- LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN_USERNAME
